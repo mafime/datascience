@@ -1,2 +1,2 @@
 # datascience
-This repo is for learning Data Science.
+This repo is for learning Data Science via Coursera.
